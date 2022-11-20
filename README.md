@@ -7,6 +7,7 @@
 #### 👓 I'm interested in ...
 
 - SpringBoot
+  - jpa, junit, batch, msa cloud 
 - Docker
 - Kubernetes
 - kafka
