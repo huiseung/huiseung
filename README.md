@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-#### 💻 I’m currently working on ...
-
-- Samsung SDS, SCP개발그룹(클라우드 개발)
 
 #### 👓 I'm interested in ...
 
