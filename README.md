@@ -5,6 +5,7 @@
 
 - SpringBoot
   - jpa, junit, batch, msa cloud 
+- clean architecure
 - Docker
 - Kubernetes
 - kafka
