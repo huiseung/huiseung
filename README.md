@@ -6,10 +6,8 @@
 - SpringBoot
   - jpa, junit, batch, msa cloud 
 - clean architecure
-- Docker
-- Kubernetes
+- 
 - kafka
-- Elastic Stack
 
 
 #### 📭 How to reach me ...
