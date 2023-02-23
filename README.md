@@ -6,7 +6,7 @@
 - SpringBoot
   - jpa, junit, batch, msa cloud 
 - clean architecure
-- 
+- redis
 - kafka
 
 
