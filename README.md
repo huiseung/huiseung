@@ -23,23 +23,30 @@
 ##### Infra
 - docker(하), kafka(하)
 
+</br>
+</br>
 #### 📭 How to reach me ...
 
 - email
   - whtjddn75@gmail.com 
 - github
   - https://github.com/huiseung
- 
+
+</br>
+</br>
 #### Experience
 - 삼성 SDS(2022.08~)
   - Samsung Cloud Platform 개발그룹
 
-
+</br>
+</br>
 #### Education
 - 한양대 
   - 주: 산업공학(2017~2022)
   - 복수: 컴퓨터소프트웨어학(2018~2022)
 
+</br>
+</br>
 #### 수상 경력
 - Naver AI Rush(2021)
   - 재생 목록 기반 음악 추천 3등
