@@ -43,21 +43,8 @@
 </br>
 </br>
 
-#### Education
-- 한양대 
-  - 주: 산업공학(2017~2022)
-  - 복수: 컴퓨터소프트웨어학(2018~2022)
-
 </br>
 </br>
-
-#### 수상 경력
-- Naver AI Rush(2021)
-  - 재생 목록 기반 음악 추천 3등
-    - modeling으로 leader board 경쟁
-- 기상청&GS리테일 빅데이터 콘테스트
-  - 유통 분야 우수상(2등)
-    - 기상 자료와 GS25 품목별 일일 판매량을 가지고 수요예측, 재고 관리 시스템 개발
 
 <!--
 **huiseung/huiseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
