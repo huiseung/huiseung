@@ -36,9 +36,6 @@
 </br>
 </br>
 
-#### Experience
-- 삼성 SDS(2022.08~)
-  - Samsung Cloud Platform 개발그룹
 
 </br>
 </br>
