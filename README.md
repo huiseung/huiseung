@@ -26,13 +26,6 @@
 </br>
 </br>
 
-#### 📭 How to reach me ...
-
-- email
-  - whtjddn75@gmail.com 
-- github
-  - https://github.com/huiseung
-
 </br>
 </br>
 
