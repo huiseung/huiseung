@@ -22,6 +22,7 @@
  
 ##### Infra
 - docker(하), kafka(하)
+- AWS(하): EC2, RDS, ...
 
 </br>
 </br>
