@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ##### Language
+
 - java
- -  spring boot를 이용한 server 개발시 사용
- -  항상 깊이 있게 이해하려고 노력함
+  - spring boot를 이용한 server 개발시 사용
+  - 항상 깊이 있게 이해하려고 노력함
 - javascrpt
   - web 개발을 위해 사용, 필요한 문법을 찾아서 사용 
 - python
@@ -16,7 +17,7 @@
 
 ##### Backend
 - Spring 
- - Spring Boot, JPA, Spring Batch, Spring Cloud, Spring Security, ...
+  - Spring Boot, JPA, Spring Batch, Spring Cloud, Spring Security, ...
 
 ##### FrontEnd
 - Vue, React
